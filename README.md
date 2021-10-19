@@ -33,7 +33,7 @@
 
 <br />
 <br />
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=electrmite&layout=compact)](https://github.com/electrmite)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=electramite&layout=compact)](https://github.com/electramite)
 
 [instagram]: https://instagram.com/electramite?igshid=sywivhgq7xeo
 [linkedin]: https://www.linkedin.com/in/shashwat-patel-537a14190
